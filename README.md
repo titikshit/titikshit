@@ -107,11 +107,13 @@ Production-grade RAG system with **95% answer accuracy**:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=titikshit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=titikshit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titikshit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titikshit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=titikshit&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=titikshit&custom_title=Contribution%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=3B82F6&area_color=3B82F6&area=true&hide_border=true&theme=tokyo-night)
 
 </div>
 
